@@ -584,7 +584,7 @@ tr:nth-child(even) {
 
     }
     .box2 {
-        width: 38%;
+        width: 67%;
         border: 3px #fce009f3 solid;
         height: 222px;
         box-shadow: 1px 1px 5px 5px #8d8d8d70;
@@ -594,7 +594,7 @@ tr:nth-child(even) {
         display: inline-block;
     }
     .center {
-        font-size: 9px;
+        font-size: 16px;
         text-align: justify;
         margin-top: 19px;
         height: fit-content;
@@ -602,7 +602,6 @@ tr:nth-child(even) {
         margin: auto;
         padding: 2px;
     }
-
     .label {
         font-size: 12px; /* Adjust font size for better readability on small screens */
         margin-left: 5px;
