@@ -789,7 +789,7 @@ tr:nth-child(even) {
         .hero-right-form {
             width: auto;
             background-color: aliceblue;
-            margin: 10% 7% 0px 0px;
+            margin: 10% 0px 0px 0px;
               padding: 12%;
         }
         #form{
