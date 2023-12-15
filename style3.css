@@ -594,7 +594,7 @@ tr:nth-child(even) {
         display: inline-block;
     }
     .center {
-        font-size: 16px;
+        font-size: 11px;
         text-align: justify;
         margin-top: 19px;
         height: fit-content;
