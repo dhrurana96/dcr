@@ -601,7 +601,7 @@ tr:nth-child(even) {
         width: auto;
         margin: auto;
         padding: 2px;
-    }
+    }..
     .label {
         font-size: 12px; /* Adjust font size for better readability on small screens */
         margin-left: 5px;
